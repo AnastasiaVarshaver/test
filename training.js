@@ -44,3 +44,5 @@ else if (operation == 4) {
     result = multiplying();
 }
 console.log("The result is " + result);
+
+training
